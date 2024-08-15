@@ -1,0 +1,14 @@
+.userImage {
+  background-image: url("/Images/user.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.leftBar {
+  position: absolute;
+  right: -20px;
+  top: 50%;
+  transform: translate(100%, -50%);
+
+  height: 3px;
+}
